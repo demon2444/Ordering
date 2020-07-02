@@ -9,7 +9,7 @@
 <head>
 
 
- 
+
 
 
 
@@ -77,7 +77,8 @@ Cuisine
 </div>
 <div class="menu-center collapse navbar-collapse">
 <ul class="ttr_menu_items nav navbar-nav navbar-right">
-<li class="ttr_menu_items_parent dropdown active"><a href="home.html" class="ttr_menu_items_parent_link_active"><span class="menuchildicon"></span>Home</a>
+<li class="ttr_menu_items_parent dropdown active"><a href="home.jsp" class="ttr_menu_items_parent_link_active">
+   <span class="menuchildicon"></span>Home</a>
 <hr class ="horiz_separator"/>
 </li>
 <li class="ttr_menu_items_parent dropdown"><a href="about-us.html" class="ttr_menu_items_parent_link"><span class="menuchildicon"></span>About Us</a>
@@ -151,7 +152,8 @@ Cuisine
 <div class="post_column col-lg-3 col-md-6 col-sm-6 col-xs-12">
 <div class="ttr_Home_html_column10">
 <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
-<div class="html_content"><p style="margin:0em 0em 0.71em 0em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;"><span><img class="ttr_uniform" src="images/90.jpeg" style="max-width:300px;max-height:200px;" /></span></span><span style="font-weight:700;font-size:1.714em;color:rgba(195,25,23,1);">Starter</span></p><p style="margin:0.14em 0em 0em 0em;text-align:Center;line-height:1.40845070422535;"><span style="color:rgba(105,105,105,1);">Faucibus iaculis suscipit dui.Nam sit amet sem. Aliquam libero, imperdiet at, tincidunt nec, gravida vehicula, nisl, praesent mattis.</span></p></div>
+<div class="html_content"><p style="margin:0em 0em 0.71em 0em;text-align:Center;"><span class="ttr_image" style="float:none;display:block;text-align:center;overflow:hidden;margin:0em 0em 1.43em 0em;">
+   <span><img class="ttr_uniform" src="/images/90.jpeg" style="max-width:300px;max-height:200px;" /></span></span><span style="font-weight:700;font-size:1.714em;color:rgba(195,25,23,1);">Starter</span></p><p style="margin:0.14em 0em 0em 0em;text-align:Center;line-height:1.40845070422535;"><span style="color:rgba(105,105,105,1);">Faucibus iaculis suscipit dui.Nam sit amet sem. Aliquam libero, imperdiet at, tincidunt nec, gravida vehicula, nisl, praesent mattis.</span></p></div>
 <div style="height:0px;width:0px;overflow:hidden;-webkit-margin-top-collapse: separate;"></div>
 <div style="clear:both;"></div>
 </div>
